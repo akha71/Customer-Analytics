@@ -1,1 +1,2 @@
-
+Purchasing probability model using logistic regression. Then the model result is used to draw purchasing elasticity for each segement. 
+Features for logist regression model are mean price of all brands and mean promotion value.
