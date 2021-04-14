@@ -1,11 +1,11 @@
 # Customer-Analytics
 Here I have developed models of customer Analytics. Steps: 1) customer segmentation 2) purchase probability (buy or not buy) 3) brand choice 4) purchase quantity
 1) Customer segmentation using PCA (for dimension reduction) and K-means for clustering. customers are clusters into 4 groups.
-1.2) Segements: 
-Segment 0: highly educated and older people and in a family with high income --> well-off segment.
-Segment 1: single and less eduacted people with low income in small cities --> fewer opportunities segment.
-Segment 2: almost all men, low education but high income and live in big cities --> career-focused segment.
-Segment 3: youngest group with average income and education and married --> standard segment.
+1.2) Segements by (PCA + Kmeans): 
+Segment 0: single and less eduacted people with low income in small cities --> fewer opportunities segment.
+Segment 1: almost all men, low education but high income and live in big cities --> career-focused segment.
+Segment 2: youngest group with average income and education and married --> standard segment.
+Segment 3: highly educated and older people and in a family with high income --> well-off segment.
 
 1.3) features for segmentation: Sex , Marital Status, Education = 1, 2, 3: high school, university, graduate school, Occupation = 0, 1, 2: unemployed, skilled, highly qualified, Settlement size = 0, 1, 2: small, medium, big city.
 
