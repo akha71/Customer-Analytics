@@ -16,3 +16,5 @@ Segment 3: highly educated and older people and in a family with high income -->
 3) Brand choice: using multinomial logistic regression to model the customer brand choice. 
 3.1) features: prices of 5 brnads. 
 3.2) price elasticity results are provided for each segement. moreover, cross elasticity results are provided for brand 5 and its competitor brand 4. in cross elasticity we are interested to evaluate how price change of a competitor brand (brand 4) would affect our own brand (brand 5) purchase probability. In this experiment our price is set to be constant and competitor brand price is variable. Note that formula of cross elasticity is a bit different than own elasticity.
+4) Purchase Quantity: predictiong quantity that customer would buy using linear regression.
+4.1) features: Price and Promotion
